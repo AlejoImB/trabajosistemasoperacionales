@@ -40,5 +40,4 @@ curl -s -o response.json -w "%{http_code}" https://jsonplaceholder.typicode.com/
 }
 echo -e "\n"
 
-chmod +x script.sh
-./script.sh
+
